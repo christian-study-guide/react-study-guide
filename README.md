@@ -22,6 +22,13 @@
     - [Compatibilidade](https://docs.nativebase.io/docs/Compatibility.html)
 - PWA
     - [Build your first **P**rogressive **W**eb **A**pp with React](https://engineering.musefind.com/build-your-first-progressive-web-app-with-react-8e1449c575cd)
+- Style
+    - [Guidist](https://github.com/styleguidist/react-styleguidist)
+- Examples
+    - [Google Places Autocomplete](https://github.com/FaridSafi/react-native-google-places-autocomplete)
+    - [react-native-ducks-boilerplate](https://github.com/juliofalbo/react-native-ducks-boilerplate)
+    - [react-native-maps-directions](https://github.com/juliofalbo/react-native-maps-directions)
+    - [react-native-maps-router-boilerplate](https://github.com/juliofalbo/react-native-maps-router-boilerplate)
 
 ## Cursos
 ---
